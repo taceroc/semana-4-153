@@ -1,6 +1,7 @@
 npm install para ambas carpetas
 
-backend_reto4: Hace referencia al backend
+backend_reto4: Hace referencia al backend  
+
 vuetify: Hace referencia al frontend de ese backend
 
 Esta conectado a la base de datos mia (Tatiana), hay varios ususarios de prueba, 
